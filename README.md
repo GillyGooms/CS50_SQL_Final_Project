@@ -1,2 +1,2 @@
 # CS50_SQL_Final_Project
-This is the project folder for CS50 SQL. It includes DESIGN.md, schema.sql, queries.sql, and project.db. 
+This is the project folder for CS50 SQL. It includes DESIGN.md, schema.sql, queries.sql, and project.db. The purpose of this database is to mimic a healthcare information system for the fictional medical center "Gilly Gooms Center". This database will be useful in retaining patient information, doctor availablity, setting appointment times, and seeing if medicine is available at the pharmacy to be prescribed.
